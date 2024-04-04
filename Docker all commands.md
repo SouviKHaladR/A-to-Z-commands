@@ -126,7 +126,7 @@ docker manifest inspect	 Display an image manifest, or manifest list
 docker manifest push	Push a manifest list to a repository
 docker manifest rm	Delete one or more manifest lists from local storage
 
-Network Network:
+Network Management:
 
 docker network connect	Connect a container to a network
 docker network create	Create a network
